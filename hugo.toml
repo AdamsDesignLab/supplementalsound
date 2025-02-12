@@ -1,0 +1,4 @@
+baseURL = 'https://supplementalsound.com/'
+languageCode = 'en-us'
+title = 'Supplemental Sound'
+theme = 'ananke'
