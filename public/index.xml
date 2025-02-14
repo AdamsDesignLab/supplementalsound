@@ -6,14 +6,28 @@
     <description>Recent content on Supplemental Sound</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Feb 2025 22:29:18 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 12:23:34 -0600</lastBuildDate>
     <atom:link href="https://supplementalsound.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Supplemental Sound Relaunch</title>
+      <link>https://supplementalsound.com/posts/supplemental-sound-relaunch/</link>
+      <pubDate>Fri, 14 Feb 2025 12:23:34 -0600</pubDate>
+      <guid>https://supplementalsound.com/posts/supplemental-sound-relaunch/</guid>
+      <description>&lt;h1 id=&#34;supplemental-sound-a-fresh-start&#34;&gt;Supplemental Sound: A Fresh Start&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Published on February 14, 2025&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-the-change&#34;&gt;Why the Change?&lt;/h2&gt;&#xA;&lt;p&gt;I’ve moved Supplemental Sound away from Substack. It was time for a simpler, less intrusive platform—one that offers complete control over what goes on the page. I decided to archive all old content and begin anew. This clean slate aligns with my focus on clarity, local engagement, and direct delivery of music-related insights.&lt;/p&gt;&#xA;&lt;h2 id=&#34;hosting-and-customization&#34;&gt;Hosting and Customization&lt;/h2&gt;&#xA;&lt;p&gt;Even though the technical details aren’t critical to readers, I’m now using a more customizable approach that spares everyone from spammy emails and clutter. The site is streamlined, faster, and under my control. No more unnecessary features or distracting elements.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>https://supplementalsound.com/posts/my-first-post/</link>
       <pubDate>Tue, 11 Feb 2025 22:29:18 -0600</pubDate>
       <guid>https://supplementalsound.com/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello world!&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Concert Calendar</title>
+      <link>https://supplementalsound.com/concerts/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://supplementalsound.com/concerts/</guid>
+      <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Date&lt;/th&gt;&#xA;          &lt;th&gt;Venue&lt;/th&gt;&#xA;          &lt;th&gt;Ticket Link&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Feb 20, 2024&lt;/td&gt;&#xA;          &lt;td&gt;The Truman&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;#&#34;&gt;Buy Tickets&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Mar 10, 2024&lt;/td&gt;&#xA;          &lt;td&gt;Uptown Theater&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;#&#34;&gt;Buy Tickets&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Mar 25, 2024&lt;/td&gt;&#xA;          &lt;td&gt;The Midland&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;#&#34;&gt;Buy Tickets&lt;/a&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>

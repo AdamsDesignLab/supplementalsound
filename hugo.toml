@@ -2,3 +2,8 @@ baseURL = 'https://supplementalsound.com/'
 languageCode = 'en-us'
 title = 'Supplemental Sound'
 theme = 'ananke'
+
+[params]
+  hero_image = "images/concert-hero.jpeg"
+  soundcloud_embed = "https://soundcloud.com/tay7575"
+  custom_css = ["css/custom.css"]
